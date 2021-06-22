@@ -1,1 +1,2 @@
-1. Calculate length of Line.
+2. Check the equality of two lines.
+
