@@ -1,1 +1,1 @@
-Welcome to Line Comparison Computation Program on Master Branch
+1. Calculate length of Line.
