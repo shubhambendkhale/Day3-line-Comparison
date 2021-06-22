@@ -1,2 +1,1 @@
-2. Check the equality of two lines.
-
+3. Compare two lines based on ends points.
